@@ -395,3 +395,105 @@ margin-left:24px;
     padding-top:5px;
     padding-left:5px;
 }
+.five{
+    margin-top:80px;
+}
+.five .h1{
+    width: 1280px;
+    height: 48px;
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+text-align: left;
+margin-bottom:24px;
+margin-top:0px;
+}
+.five .p{
+    width: 1500px;
+height: 48px;
+color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+}
+
+.five1 h1{
+    width: 744px;
+height: 38px;
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;
+line-height: 38px;
+text-align: left;
+margin-bottom:0px;
+}
+.five1 .icon1{
+    width: 134px;
+height: 40px;
+margin-top:12px;
+}
+.five1 .para1{
+    display:flex;
+    gap:12px;
+    align-items: center;
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom:0px;
+}
+.para2{
+    width: 744px;
+height: 72px;
+color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-top:0px;
+}
+.five1 button{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+border-radius: 8px;
+width: 139px;
+height: 48px;
+background: rgb(0, 106, 80);
+border:none;
+text-align: center;
+margin-top:14px;
+}
+.fivem{
+    display: flex;
+    width: 1535px;
+height: 402px;
+    border-radius: 24px;
+
+background: rgb(255, 255, 255);
+align-items: center;
+justify-content:space-between;
+margin-bottom:24px;
+
+}
+.fivem1{
+    padding-left:100px;
+}
+.image{
+    padding-right:100px;
+}
+ 
