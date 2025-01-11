@@ -699,5 +699,20 @@ margin-left:-4px;
  }
  button:hover{
     background-color: mediumaquamarine;
+    transform:scale(1.1);
  }
-
+.second .card1:hover{
+    background-color:mediumslateblue;
+}
+.second .card2:hover{
+    background-color:mediumslateblue;
+}
+.second .card3:hover{
+    background-color:mediumslateblue;
+}
+.first .f1 div:hover{
+    background-color:mediumslateblue;
+}
+.fivem:hover{
+    background-color:#d3d3ff;
+}
