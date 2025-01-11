@@ -677,9 +677,13 @@ margin-left:-4px;
   .btn button:hover{
     background-color: mediumaquamarine;
  }
+
  footer{
     margin-top:80px;
     text-align: center;
+    align-items: center;
+    width:1500px;
+    
  }
  footer h1{
     color: rgb(14, 14, 14);
