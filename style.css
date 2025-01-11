@@ -5,6 +5,9 @@ body {
     background-color:#F5F5F5 ;
 }
 /*nav section*/
+header{
+    width:1500px;
+}
 nav{
     width: 1476px;
 height: 100px;
@@ -151,6 +154,7 @@ margin-bottom:0px;
 }
 .first{
     margin-top:80px;
+    width:1500px;
 }
 .second{
     display: flex;
@@ -240,6 +244,9 @@ border:none;
 .s1 button:hover{
     background-color:darkturquoise;
 }
+.second{
+    width:1500px;
+}
 .second h1{
     width: 1280px;
 height: 48px;
@@ -277,6 +284,7 @@ padding: 40px 130px;
 background: url("assets/quote-bg.png");
 background-repeat: no-repeat;
 background-position: 130px 30px; 
+ width:1500px;
 
 }
 .t1{
@@ -316,6 +324,7 @@ text-align: left;
 }
 .four{
     margin-top:80px;
+    width:1500px;
 }
 .four h1{
     width: 1280px;
@@ -331,13 +340,13 @@ text-align: left;
     box-sizing: border-box;
 border: 1px solid rgba(14, 14, 14, 0.15);
 background: rgb(198, 228, 214);
-width: 1530px;
+width: 1500px;
 height: 72px;
 margin-bottom:0px;
 }
 
 .fo1{
-    width: 1400px;
+    width: 1140px;
     height: 92px;
 color: rgb(14, 14, 14);
 font-family: Fira Sans;
@@ -415,6 +424,7 @@ text-align: left;
 }
 .five{
     margin-top:80px;
+    width:1500px;
 }
 .five .h1{
     width: 1280px;
@@ -454,6 +464,9 @@ margin-bottom:0px;
     width: 134px;
 height: 40px;
 margin-top:12px;
+}
+.five1{
+    width:1500px;
 }
 .five1 .para1{
     display:flex;
@@ -498,7 +511,7 @@ margin-top:14px;
 }
 .fivem{
     display: flex;
-    width: 1535px;
+    width: 1500px;
 height: 402px;
     border-radius: 24px;
 
