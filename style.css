@@ -235,6 +235,10 @@ background: rgb(247, 235, 207);
     border-radius: 8px;
 background: rgb(255, 194, 57);
 border:none;
+
+}
+.s1 button:hover{
+    background-color:darkturquoise;
 }
 .second h1{
     width: 1280px;
@@ -367,6 +371,13 @@ align-items: center;
     justify-content: space-between;
      list-style: none;
      align-items: center;
+     color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
      
 }
 .four button{
@@ -379,6 +390,13 @@ background: rgba(9, 161, 92, 0.15);
 width: 152px;
 height: 44px;
 margin-left:24px;
+color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+
+text-align: left;
 
 }
 .fo4{
@@ -646,6 +664,19 @@ text-align: center;
 border: none;
 margin-left:-4px;
  }
+
+ .btn2:hover{
+    background-color: mediumaquamarine;
+ }
+ .bt:hover {
+    
+    transform: scale(1.1); 
+   
+  }
+ 
+  .btn button:hover{
+    background-color: mediumaquamarine;
+ }
  footer{
     margin-top:80px;
     text-align: center;
@@ -665,5 +696,8 @@ margin-left:-4px;
      justify-content: center;
      list-style:none;
      gap:23px;
+ }
+ button:hover{
+    background-color: mediumaquamarine;
  }
 
